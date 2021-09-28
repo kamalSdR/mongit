@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est E2BD-2EBC
+
+ R‚pertoire de C:\Users\Carmelo\myproject
+
+28/09/2021  15:49    <DIR>          .
+28/09/2021  15:49    <DIR>          ..
+28/09/2021  15:49                 0 files.txt
+28/09/2021  15:42                 0 newfile.txt
+               2 fichier(s)                0 octets
+               2 R‚p(s)  149ÿ617ÿ360ÿ896 octets libres
